@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/new/prefix1">
+        <file>Image/bg1.jfif</file>
+        <file>Image/bg2.jfif</file>
+        <file>Image/bg3.jfif</file>
+        <file>Image/bg4.jfif</file>
+        <file>Image/bg5.jpg</file>
+        <file>Image/bg6.jfif</file>
+        <file>Image/bg7.jfif</file>
+        <file>Image/bg8.jfif</file>
+        <file>Image/bg9.jfif</file>
+        <file>Image/bg10.jfif</file>
+        <file>Image/bg11.jfif</file>
+    </qresource>
+</RCC>
