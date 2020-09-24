@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bg.jfif</file>
+        <file>Image/timg.jfif</file>
+        <file>Image/timg.gif</file>
+    </qresource>
+</RCC>
